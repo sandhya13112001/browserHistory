@@ -29,7 +29,7 @@ const initialHistoryList = [
     timeAccessed: '04:25 PM',
     logoUrl: 'https://assets.ccbp.in/frontend/react-js/linkedin-img.png',
     title: 'LinkedIn: Log In or Sign Up',
-    domainUrl: 'linkedin.com',
+    domainUrl: 'linkedIn.com',
   },
   {
     id: 4,
